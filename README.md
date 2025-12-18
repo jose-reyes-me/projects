@@ -1,6 +1,6 @@
 # Jose Reyes – Engineering Portfolio
 
-Welcome to my engineering portfolio. This repository documents my work on autonomous robotic systems, with a focus on sensing, control, and mechanical integration. The primary project highlighted here is **PlowZilla**, an autonomous robot designed for the EGME 456 Messy Room Competition.
+Welcome to my engineering portfolio. This shows my work on autonomous robotic systems, with a focus on sensing, control, and mechanical integration. The primary project highlighted here is **PlowZilla**, an autonomous robot designed for the EGME 456 Messy Room Competition.
 
 ---
 
