@@ -91,12 +91,7 @@ With more time, improvements would include enhanced path planning and more robus
 
 ---
 
-## 📁 Repository Contents
-- `/code` – Final Arduino source code  
-- `/cad` – CAD models and plow design  
-- `/media` – Photos and videos of the robot  
-- `/docs` – Final report and documentation  
-
+(./IMG_2632/IMG_2632.JPG)
 ---
 
 ## 🌐 Live Portfolio
