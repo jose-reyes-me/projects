@@ -98,7 +98,7 @@ With more time, improvements would include enhanced path planning and more robus
 
 ## 🌐 Live Portfolio
 🔗 **GitHub Pages Portfolio:**  
-https://jose-reyes-me.github.io
+[https://jose-reyes-me.github.io](https://github.com/jose-reyes-me/projects)
 
 ---
 
