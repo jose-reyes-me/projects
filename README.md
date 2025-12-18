@@ -32,7 +32,7 @@ Design and program an autonomous robot capable of clearing 1 in × 1 in foam blo
 ### Mechanical System
 - Aluminum chassis provided by course kit  
 - Two Parallax continuous rotation servos (rear-wheel drive)  
-- 3D-printed V-shaped bulldozer plow designed in SolidWorks  
+- 3D-printed bulldozer plow designed in SolidWorks  
 - Plow geometry optimized to guide blocks outward and toward the opponent side  
 
 ### Electrical System
