@@ -57,7 +57,9 @@ Design and program an autonomous robot capable of clearing 1 in × 1 in foam blo
 - **Color sensor** determines the robot’s home side at startup and prevents pushing while on the opponent’s side  
 - **QTI sensor** continuously monitors the black border and overrides all behaviors to prevent leaving the field  
 - **Ultrasonic sensor** detects blocks within a threshold distance and triggers pushing behavior  
-- Differential drive control using two continuous rotation servos  
+- Differential drive control using two continuous rotation servos
+
+  I implemented and refined the control logic that integrates the  TCS3200 color sensor and ultrasonic sensor. The robot operates using a state-based architecture (roam, push, retreat), with boundary detection overriding all behaviors to prevent out-of-bounds conditions. Timing-based control was chosen over PID for simplicity and reliability under competition constraints.
 
 ---
 
@@ -78,6 +80,8 @@ The design evolved through multiple iterations:
 - Ultrasonic sensor behavior corrected to prevent avoidance of blocks
 Testing heavily influenced final timing values and state transitions.
 
+I primarily worked on software development and sensor integration, focusing on ultrasonic sensing, boundary detection logic, and state-based control. Early iterations revealed instability caused by aggressive turning and inconsistent ultrasonic readings. Through repeated testing, I refined timing-based logic, simplified behaviors, and improved reliability by prioritizing boundary avoidance and controlled sweeping over complex path planning.
+
 ---
 
 ## 🧠 Reflection
@@ -87,7 +91,7 @@ This project strengthened my skills in:
 - Mechanical design for real-world constraints
 - Trade-off analysis between speed, stability, and reliability  
 
-With more time, improvements would include enhanced path planning and more robust block detection.
+This project reinforced the importance of reliability over complexity in autonomous systems. While advanced behaviors were initially attempted, the most successful solution was a simplified sweep strategy with strong boundary awareness. If given more time, I would further refine navigation patterns and improve ultrasonic robustness. Overall, the project strengthened my skills in debugging embedded systems and integrating mechanical and software design.
 
 ---
 
