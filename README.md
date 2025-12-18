@@ -91,7 +91,9 @@ With more time, improvements would include enhanced path planning and more robus
 
 ---
 
-(./IMG_2632/IMG_2632.JPG)
+<img src="IMG_2632.JPG" width="350"> <img src="IMG_2633.JPG" width="350"> <img src="IMG_2634.JPG" width="350"> <img src="IMG_2635.JPG" width="350">
+<img src="IMG_2636.JPG" width="350"> <img src="IMG_2641.JPG" width="350">
+
 ---
 
 ## 🌐 Live Portfolio
